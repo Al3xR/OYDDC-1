@@ -1,0 +1,30 @@
+Universidad del Caribe 
+Ingenieria en Datos e Inteligencia Organizacional
+Carlos Eduardo Martinez Salgado / 160300138
+
+Este documento tiene la instrucción de ubicación de los archivo
+
+##CARPETA "Programa"
+-Esta carpeta contiene el programa ejecutable para elaborar circuitos llamado "ConstructorVirtualDeCircuitos".
+
+##CARPETA "Investigacion_Teorica"
+-Esta carpeta contiene el documento PDF con el nombre "Sumador,ALU,Contador" que es la investigación teórica de cada 
+concepto.
+
+##CARPETA "CircuitoSumador"
+-Esta carpeta contiene una imagen PNG llamada "SUMADORESOFICIAL" que contiene el ejemplo de sumador de 2 bits y 
+sumador de 4 bits ilustrado con compuertas lógicas.
+
+-El archivo de texto llamado "Sumador4_bits-copia" se debe ejecutar con el Programa de la carpeta programa, ya que 
+contiene el circuito práctico del sumador de 4 bits.
+
+-El archivo PNG llamado "EjemploCircuito_Sumador4Bits" contiene la captura del circuito de sumador de 4 bits del 
+archivo anterior ejecutado en el programa.
+
+##CARPETA "CircuitoContador"
+
+-El archivo de texto llamado "contador" se debe ejecutar con el Programa de la carpeta programa, ya que 
+contiene el circuito práctico del contador de 0 a 999.
+
+-El archivo PNG llamado "EjemploDeContador_0_999" contiene la captura del circuito del contador del 
+archivo anterior ejecutado en el programa.

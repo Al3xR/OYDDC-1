@@ -1,0 +1,7 @@
+#Universidad del Caribe #Carlos Eduardo Martinez Salgado #160300138 #IDEIO
+#Universidad del Caribe #Carlos Eduardo Martinez Salgado #160300138 #IDEIO
+
+oydcc
+Este apartado contiene ejemplos de programación de scripts de shell en editor de texto vi
+con sus respectivas pruebas de cada ejemplo a partir del capitulo 5 "Programación de scripts de shell" del documento PDF 
+llamado "shell_linux.pdf".
